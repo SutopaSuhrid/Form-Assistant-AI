@@ -16,15 +16,15 @@ Error Analytics: Tracks the most frequent mistakes and provides actionable feedb
 
 Team Collaboration: GitHub enabled for seamless engineering teamwork.
 
-Extensible: Easy to adapt to other USCIS forms in future versions.
+Extensible: Easy to adapt to other USCIS forms/FAFSA/TAX documents in future versions.
 
 Getting Started
 Clone the repo:
 
 bash
 git clone https://github.com/yourusername/form-assistant-AI.git
-Installation:
 
+Installation:
 Install Python 3.8+ and recommended dependencies (see requirements.txt).
 
 Use a virtual environment for isolation:
